@@ -32,7 +32,7 @@ void loop() {
         delay(50);
         Keyboard.releaseAll();
         delay(250);
-        Keyboard.print("2312");
+        Keyboard.print("BİLGİSAYAR ŞİFRENİZ NE İSE BURAYA ONU GİRİN");
         Keyboard.press(KEY_RETURN);
         delay(50);
         Keyboard.releaseAll();
